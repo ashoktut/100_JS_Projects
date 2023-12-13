@@ -1,6 +1,6 @@
 # 100_JS_Projects
 
-## Resources used
+## CSS Resources used
 
 Use [Clippy](https://bennettfeely.com/clippy/) for clip paths of images.
 
