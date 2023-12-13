@@ -1,4 +1,4 @@
-# 100_JS_Projects
+# 100_HTML_CSS_Projects
 
 ## CSS Resources used
 
